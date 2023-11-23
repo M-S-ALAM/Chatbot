@@ -1,0 +1,4 @@
+.idea
+.ipynb_checkpoints
+inputs/test_data.json
+inputs/training_data.json
